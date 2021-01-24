@@ -27,7 +27,7 @@ The functions of each code file are described as follows(.h and .cpp)：
 
 The running results of the project are as follows：
 
-![img](https://github.com/blank1996/Signal_Plot/blob/main/gif_show.gif)
+![img](https://github.com/blank1996/Spectrum_plot/blob/main/gif_show.gif)
 
 
 
